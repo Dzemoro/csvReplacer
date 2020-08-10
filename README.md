@@ -1,2 +1,2 @@
 # csvReplacer
-Simple program for replace every simple values with values with quotes
+Simple program for replace every simple values with values with quotes in .csv file
